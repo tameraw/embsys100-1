@@ -9,3 +9,4 @@ Smart washing machines are examples of products that have microprocessors "embed
 * Reliability, how does the system ensure there is sufficient water pressure and when there isn't suffice water pressure to function that must be communicated
 * Memory Space, there must be sufficient memory to buffer sensor input and the ability to persist Wi-Fi password and SSID values when powered off
 * Program Installation, updates may be necessary for such a system
+* Power Consumption, handle step down in voltage from 110 volt to modules with lesser power consumption and consider implications of power saver mode for eco-friendly consumers
