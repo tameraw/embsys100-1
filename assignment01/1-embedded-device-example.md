@@ -10,3 +10,5 @@ Smart washing machines are examples of products that have microprocessors "embed
 * Memory Space, there must be sufficient memory to buffer sensor input and the ability to persist Wi-Fi password and SSID values when powered off
 * Program Installation, updates may be necessary for such a system
 * Power Consumption, handle step down in voltage from 110 volt to modules with lesser power consumption and consider implications of power saver mode for eco-friendly consumers
+* Processor Hogs, asynchronous nature of HTTP (i.e. my washer has a HTTP page)
+* Cost, minimizing the amount of hardware in such a system seems like a pain...
