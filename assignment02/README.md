@@ -21,12 +21,12 @@ b. _What is the value of the 'counter' in the 'Register' window?_
 
 c. _Which flags are set in the APSR register? Explain why?_    
 ```none
-None of the flags were set.    
+Let N be such that the operands are N-bit values. None of the flags were set.    
   The instruction executed was 0x1c49 ADDS R1, R1, #1    
   APSR.N  0, set to bit[31] of the instruction is 0x1c49    
   APSR.Z  0, result of instruction was 0x20000000 which is nonzero    
-  APSR.C  0, UInt(0x1FFFFFFF) + UInt(0x00000001) is in [0, 2^15 - 1]. so no carry_out/carry-condition    
-  APSR.V  0, SInt(0x1FFFFFFF) + SInt(0x00000001) is in [-2^7, 2^7 - 1]. so no overflow    
+  APSR.C  0, UInt(0x1FFFFFFF) + UInt(0x00000001) is in [0, 2^N - 1]. so no carry_out/carry-condition    
+  APSR.V  0, SInt(0x1FFFFFFF) + SInt(0x00000001) is in [-2^(N-1), 2^(N-1) - 1]. so no overflow    
   APSR.Q  is not updated by an ADDS instruction    
   APSR.GE is not updated by an ADDS instruction    
 Hence, APSR value was 0x00000000    
@@ -39,12 +39,12 @@ a) _What happens to the value of 'counter' in the 'Locals' window?_
 ```
 b) _What flags, if any, are set in the APSR?_    
 ```none
-The APSR.Z and APSR.C flags are set    
+Let N be such that the operands are N-bit values. The APSR.Z and APSR.C flags are set    
   The instruction executed was 0x1c49 ADDS R1, R1, #1    
   APSR.N  0, set to bit[31] of the instruction is 0x1c49    
   APSR.Z  1, result of instruction was 0x00000000 which is clearly zero    
-  APSR.C  1, UInt(0xFFFFFFFF) + UInt(0x00000001) is not in [0, 2^15 - 1]. so carry_out/carry-condition    
-  APSR.V  0, SInt(0xFFFFFFFF) + SInt(0x00000001) is in [-2^7, 2^7 - 1]. so no overflow    
+  APSR.C  1, UInt(0xFFFFFFFF) + UInt(0x00000001) is not in [0, 2^N - 1]. so carry_out/carry-condition    
+  APSR.V  0, SInt(0xFFFFFFFF) + SInt(0x00000001) is in [-2^(N-1), 2^(N-1) - 1]. so no overflow    
   APSR.Q  is not updated by an ADDS instruction    
   APSR.GE is not updated by an ADDS instruction    
 Hence, APSR value was 0x60000000    
@@ -57,12 +57,12 @@ a) _What is the value of 'counter' in the 'Locals' window after incrementing for
 ```
 b) _What flags, if any, are set in the APSR? Explain why?_    
 ```none
-The APSR.Z and APSR.C flags are set    
+Let N be such that the operands are N-bit values. The APSR.Z and APSR.C flags are set    
   The instruction executed was 0x1c49 ADDS R1, R1, #1    
   APSR.N  0, set to bit[31] of the instruction is 0x1c49    
   APSR.Z  0, result of instruction was 0x20000000 which is nonzero    
-  APSR.C  0, UInt(0x1FFFFFFF) + UInt(0x00000001) is in [0, 2^15 - 1]. so no carry_out/carry-condition    
-  APSR.V  0, SInt(0x1FFFFFFF) + SInt(0x00000001) is in [-2^7, 2^7 - 1]. so no overflow    
+  APSR.C  0, UInt(0x1FFFFFFF) + UInt(0x00000001) is in [0, 2^N - 1]. so no carry_out/carry-condition    
+  APSR.V  0, SInt(0x1FFFFFFF) + SInt(0x00000001) is in [-2^(N-1), 2^(N-1) - 1]. so no overflow    
   APSR.Q  is not updated by an ADDS instruction    
   APSR.GE is not updated by an ADDS instruction    
 Hence, APSR value was 0x60000000    
@@ -75,12 +75,12 @@ a) _What is the value of 'counter' in the 'Locals' window after incrementing for
 ```
 b) _What flags, if any, are set in the APSR? Explain why?_    
 ```none
-The APSR.Z and APSR.C flags are set    
+Let N be such that the operands are N-bit values. The APSR.Z and APSR.C flags are set    
   The instruction executed was 0x1c49 ADDS R1, R1, #1    
   APSR.N  0, set to bit[31] of the instruction is 0x1c49    
   APSR.Z  1, result of instruction was 0x20000000 which is nonzero    
-  APSR.C  1, UInt(0xFFFFFFFF) + UInt(0x00000001) is not in [0, 2^15 - 1]. so carry_out/carry-condition    
-  APSR.V  0, SInt(0xFFFFFFFF) + SInt(0x00000001) is in [-2^7, 2^7 - 1]. so no overflow    
+  APSR.C  1, UInt(0xFFFFFFFF) + UInt(0x00000001) is not in [0, 2^N - 1]. so carry_out/carry-condition    
+  APSR.V  0, SInt(0xFFFFFFFF) + SInt(0x00000001) is in [-2^(N-1), 2^(N-1) - 1]. so no overflow    
   APSR.Q  is not updated by an ADDS instruction    
   APSR.GE is not updated by an ADDS instruction    
 Hence, APSR value was 0x60000000.    
