@@ -1,0 +1,506 @@
+[
+  {
+    "ID": "c:main.c@8@macro@RCC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_BASE",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "RCC_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@37@macro@RCC_AHB1ENR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_AHB1ENR",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "RCC_AHB1ENR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@98@macro@GPIOA_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_BASE",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "GPIOA_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@129@macro@GPIOA_MODER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_MODER",
+    "location": {
+      "column": "9",
+      "line": "5",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "GPIOA_MODER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@190@macro@GPIOA_ODR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_ODR",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "GPIOA_ODR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@249@macro@GPIOA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "GPIOA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@273@macro@HIGH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HIGH",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "HIGH",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@299@macro@LOW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LOW",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "LOW",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@316@macro@UNIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UNIT",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "UNIT",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@334@macro@DOT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DOT",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "DOT",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@361@macro@DASH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DASH",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "DASH",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@395@macro@NB_SPACE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NB_SPACE",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "NB_SPACE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@426@macro@CHAR_SPACE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CHAR_SPACE",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "CHAR_SPACE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@465@macro@WORD_SPACE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "WORD_SPACE",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "WORD_SPACE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@J",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "J",
+    "location": {
+      "column": "20",
+      "line": "19",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "J",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@A",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "A",
+    "location": {
+      "column": "20",
+      "line": "20",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "A",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@M",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "M",
+    "location": {
+      "column": "20",
+      "line": "21",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "M",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@E",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "E",
+    "location": {
+      "column": "20",
+      "line": "22",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "E",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@S",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "S",
+    "location": {
+      "column": "20",
+      "line": "23",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "S",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@CHAR_SPACE_ARR",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "CHAR_SPACE_ARR",
+    "location": {
+      "column": "20",
+      "line": "24",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "CHAR_SPACE_ARR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@WORD_SPACE_ARR",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "WORD_SPACE_ARR",
+    "location": {
+      "column": "20",
+      "line": "25",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "WORD_SPACE_ARR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@NAME",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "NAME",
+    "location": {
+      "column": "21",
+      "line": "26",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "NAME",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "29",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@COUNTER_CYCLES",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "COUNTER_CYCLES",
+    "location": {
+      "column": "11",
+      "line": "30",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "COUNTER_CYCLES",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@wait_unit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void wait_unit(const unsigned int)",
+    "location": {
+      "column": "6",
+      "line": "33",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "wait_unit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1084@F@wait_unit@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "18",
+      "line": "34",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@enable_peripheral_clock",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void enable_peripheral_clock(void)",
+    "location": {
+      "column": "6",
+      "line": "41",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "enable_peripheral_clock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@set_gpio5_output",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void set_gpio5_output(void)",
+    "location": {
+      "column": "6",
+      "line": "50",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "set_gpio5_output",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@set_gpioa_high",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void set_gpioa_high(void)",
+    "location": {
+      "column": "6",
+      "line": "59",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "set_gpioa_high",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@set_gpioa_low",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void set_gpioa_low(void)",
+    "location": {
+      "column": "6",
+      "line": "67",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "set_gpioa_low",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morse_from_arr",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void morse_from_arr(const unsigned int *)",
+    "location": {
+      "column": "6",
+      "line": "75",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "morse_from_arr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2214@F@morse_from_arr@narr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "narr",
+    "location": {
+      "column": "19",
+      "line": "76",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "narr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morse_word_from_arr",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void morse_word_from_arr(const unsigned int **)",
+    "location": {
+      "column": "6",
+      "line": "88",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "morse_word_from_arr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2529@F@morse_word_from_arr@word_char",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "word_char",
+    "location": {
+      "column": "26",
+      "line": "89",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "word_char",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "104",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@3034@F@main@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "18",
+      "line": "105",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]
