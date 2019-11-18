@@ -1,0 +1,226 @@
+[
+  {
+    "ID": "c:main.c@8@macro@PERIPHERAL_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PERIPHERAL_BASE",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "PERIPHERAL_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@44@macro@PERIPHERAL_RCC_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PERIPHERAL_RCC_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "PERIPHERAL_RCC_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@86@macro@RCC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_BASE",
+    "location": {
+      "column": "9",
+      "line": "3",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "RCC_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@147@macro@RCC_AHB1ENR_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_AHB1ENR_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "4",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "RCC_AHB1ENR_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@182@macro@PERIPHERAL_GPIOX_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PERIPHERAL_GPIOX_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "6",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "PERIPHERAL_GPIOX_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@226@macro@GPIOX_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOX_BASE",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOX_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@290@macro@GPIOX_A_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOX_A_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOX_A_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@318@macro@GPIOA_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_BASE",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOA_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@368@macro@GPIOA_MODER_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_MODER_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOA_MODER_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@401@macro@GPIOA_ODR_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_ODR_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOA_ODR_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@434@macro@GPIOA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "GPIOA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@458@macro@PERIPHERAL_ALIAS_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "PERIPHERAL_ALIAS_BASE",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "PERIPHERAL_ALIAS_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@500@macro@DELAY_PERIOD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DELAY_PERIOD",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "DELAY_PERIOD",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "14",
+      "line": "18",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay(int)",
+    "location": {
+      "column": "6",
+      "line": "20",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void main(void)",
+    "location": {
+      "column": "6",
+      "line": "27",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\blinking_led\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  }
+]

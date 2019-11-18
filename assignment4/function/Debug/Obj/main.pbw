@@ -1,0 +1,492 @@
+[
+  {
+    "ID": "c:@F@expand2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int expand2(int, int)",
+    "location": {
+      "column": "5",
+      "line": "2",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "expand2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@expand4",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int expand4(int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "expand4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@sum8",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int sum8(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "4",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "sum8",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@get",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int get(void)",
+    "location": {
+      "column": "5",
+      "line": "5",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "get",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void main(void)",
+    "location": {
+      "column": "6",
+      "line": "6",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@187@F@main@odd",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "odd",
+    "location": {
+      "column": "7",
+      "line": "7",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "odd",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@205@F@main@even",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "even",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "even",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@234@F@main@result",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "result",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "result",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@get",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int get(void)",
+    "location": {
+      "column": "5",
+      "line": "13",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "get",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@expand2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int expand2(int, int)",
+    "location": {
+      "column": "5",
+      "line": "16",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "expand2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@382@F@expand2@j1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j1",
+    "location": {
+      "column": "9",
+      "line": "17",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@395@F@expand2@j2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j2",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@408@F@expand2@j3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j3",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@421@F@expand2@j4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j4",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@434@F@expand2@jsum",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "jsum",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "jsum",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@expand4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int expand4(int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "30",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "expand4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@628@F@expand4@j1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j1",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@641@F@expand4@j2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j2",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@654@F@expand4@j3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j3",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@667@F@expand4@j4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j4",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@680@F@expand4@j5",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j5",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@693@F@expand4@j6",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j6",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@706@F@expand4@j7",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j7",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j7",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@719@F@expand4@j8",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j8",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j8",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@732@F@expand4@jsum",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "jsum",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "jsum",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@sum8",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int sum8(int, int, int, int, int, int, int, int)",
+    "location": {
+      "column": "5",
+      "line": "54",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "sum8",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1044@F@sum8@j1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j1",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1057@F@sum8@j2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j2",
+    "location": {
+      "column": "9",
+      "line": "56",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1070@F@sum8@j3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j3",
+    "location": {
+      "column": "9",
+      "line": "57",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1083@F@sum8@j4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j4",
+    "location": {
+      "column": "9",
+      "line": "58",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1096@F@sum8@j5",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j5",
+    "location": {
+      "column": "9",
+      "line": "59",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1109@F@sum8@j6",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j6",
+    "location": {
+      "column": "9",
+      "line": "60",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1122@F@sum8@j7",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j7",
+    "location": {
+      "column": "9",
+      "line": "61",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j7",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1135@F@sum8@j8",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "j8",
+    "location": {
+      "column": "9",
+      "line": "62",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "j8",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1148@F@sum8@jsum",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "jsum",
+    "location": {
+      "column": "9",
+      "line": "63",
+      "path": "\\\\vmware-host\\Shared Folders\\shared-folders\\embsys100\\embsys100\\assignment4\\function\\main.c"
+    },
+    "name": "jsum",
+    "origin": "project_file",
+    "scope": null
+  }
+]
