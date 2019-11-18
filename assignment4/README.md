@@ -29,7 +29,7 @@ Before the instructions were ready-modify-write.
 Create a function with multiple arguments (5 arguments for example) and call that function from within another function. Trace thru the assembler and note:  
 **a.** How does the calling function pass the values to the called function?  
 The calling functions will pass values by moving them into the registers until they are full. Once
-the registers are full the values will be l on the stack.
+the registers are full the values will be l on the stack.  
 **b.** What extra code did the compiler generate before calling the function with the multiple arguments?  
 Before calling a function with 4 arguments the values are moved to registers R0-R3,
 ```
@@ -66,7 +66,7 @@ Following the queue data structure approach, design, implement and test a stack 
 **c.** Separate the stack code from the rest of the test code (create stack.h & stack.c)  
 
 ### Bonus
-Using the power of pointers and type casting, create a function that can determine if a computer is big-endian or little-endian. Test your function in the simulator and modify the Project Options (as shown in the figure below) against:
+Using the power of pointers and type casting, create a function that can determine if a computer is big-endian or little-endian. Test your function in the simulator and modify the Project Options (as shown in the figure below) against:  
 **a.** Device STM32F401RE  
 **b.** Cortex M4 (Little endian option)  
 **c.** Cortex M4 (Big Endian option)  
