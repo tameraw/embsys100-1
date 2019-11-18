@@ -1,9 +1,7 @@
-#include<assert.h>
-#include"stack.h"
-#include<stdio.h>
+#include "stack.h"
+#include <assert.h>
 
-int main()
-{
+int main() {
     int stack_values[] = {1, 2, 3};
     int *p_values = &stack_values[0];
     int actual_value;
@@ -24,7 +22,7 @@ int main()
     assert(!stack_empty());
     assert(!stack_full());
     // Pop test
-    actual_value = -1;  // invalidate before test
+    actual_value = -1; // invalidate before test
     expected = 0;
     expected_value = *p_values;
     actual = stack_pop(&actual_value);
@@ -42,7 +40,7 @@ int main()
     // is full test
     assert(stack_full());
     // pop
-    actual_value = -1;  // invalidate before test
+    actual_value = -1; // invalidate before test
     expected = 0;
     expected_value = *p_values;
     actual = stack_pop(&actual_value);
@@ -50,8 +48,8 @@ int main()
     assert(actual_value == expected_value);
     assert(!stack_empty());
     // pop
-    --p_values;  // account for previous pop
-    actual_value = -1;  // invalidate before test
+    --p_values;        // account for previous pop
+    actual_value = -1; // invalidate before test
     expected = 0;
     expected_value = *p_values;
     actual = stack_pop(&actual_value);

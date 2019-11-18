@@ -1,23 +1,21 @@
 #include "stack.h"
-#include <stdio.h>
 
 int intStack[MAX_STACK_SIZE];
-int* pIntStack;  // Pointer to intStack
-
+int *pIntStack; // Pointer to intStack
 
 void stack_ctor(void) {
     // ctor for intStack sets all elmnts to 0
     pIntStack = NULL;
 
-    for(int i=0; i < MAX_STACK_SIZE; ++i) {
+    for (int i = 0; i < MAX_STACK_SIZE; ++i) {
         intStack[i] = 0;
     }
 }
 
 int stack_push(int elmnt) { // LIFO stack
     // push elmnt to stack, returns 0 for success and 1 for failure
-    if (stack_full()){
-        return 1;  // full -> true there is an error
+    if (stack_full()) {
+        return 1; // full -> true there is an error
     } else if (pIntStack == NULL) {
         pIntStack = &intStack[0];
     }
@@ -26,7 +24,7 @@ int stack_push(int elmnt) { // LIFO stack
     return 0;
 }
 
-int stack_pop(int* elmnt) {  // LIFO stack
+int stack_pop(int *elmnt) { // LIFO stack
     if (pIntStack == NULL) {
         return 1; // empty -> true there is an error
     }

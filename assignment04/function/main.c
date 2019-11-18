@@ -2,17 +2,15 @@
 int expand2(int i1, int i2);
 int expand4(int i1, int i2, int i3, int i4);
 int sum8(int i1, int i2, int i3, int i4, int i5, int i6, int i7, int i8);
-int get() ;
+int get();
 void main(void) {
-  int odd = 3;
+    int odd = 3;
     int even = get();
-    
+
     int result = expand2(even, odd);
     (void)result; // squelch unused complaint
 }
-int get() {
-  return 2;
-}
+int get() { return 2; }
 int expand2(int i1, int i2) {
     int j1;
     int j2;
@@ -48,7 +46,6 @@ int expand4(int i1, int i2, int i3, int i4) {
     j8 = i2 + 8;
     jsum = sum8(j1, j2, j3, j4, j5, j6, j7, j8);
     return jsum;
-
 }
 
 int sum8(int i1, int i2, int i3, int i4, int i5, int i6, int i7, int i8) {
@@ -72,5 +69,4 @@ int sum8(int i1, int i2, int i3, int i4, int i5, int i6, int i7, int i8) {
     j8 = i2 + 8;
     jsum = j1 + j2 + j3 + j4 + j5 + j6 + j7 + j8;
     return jsum;
-
 }
